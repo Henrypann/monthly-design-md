@@ -1,0 +1,30 @@
+{
+  "id": "trend",
+  "label": "Velvet Herbarium",
+  "kind": "editorial",
+  "mode": "light",
+  "edition": "2026-11",
+  "provenance": {
+    "type": "original-concept",
+    "note": "原创示范配色；非 Pantone 官方色板，也不代表已核实的 2026-11 潮流预测。",
+    "sources": []
+  },
+  "tokens": {
+    "background": "#F6EDE4",
+    "surface": "#FFF9F2",
+    "surfaceMuted": "#EDE2D7",
+    "text": "#523A36",
+    "textMuted": "#785B54",
+    "border": "#D9C6BB",
+    "accent": "#9C4457",
+    "onAccent": "#FFFFFF",
+    "accentSoft": "#EBD4D9",
+    "secondary": "#5B6A45",
+    "decorative": "#9CAC8A"
+  },
+  "material": {
+    "finish": "soft-matte",
+    "shadow": "subtle",
+    "gradient": "optional-and-sparse"
+  }
+}
