@@ -1,0 +1,63 @@
+{
+  "edition": "2026-11",
+  "designSystemVersion": "1.1.0",
+  "note": "初始化快照：包含 Dark/Light 当月点缀色和 Trend 完整主题。",
+  "dark": {
+    "id": "dark",
+    "label": "Obsidian",
+    "kind": "classic",
+    "mode": "dark",
+    "edition": "2026-11",
+    "tokens": {
+      "accent": "#65C9AC",
+      "onAccent": "#10251D",
+      "accentSoft": "#203B36",
+      "secondary": "#A89DC7",
+      "decorative": "#B5C4B0"
+    }
+  },
+  "light": {
+    "id": "light",
+    "label": "Porcelain",
+    "kind": "classic",
+    "mode": "light",
+    "edition": "2026-11",
+    "tokens": {
+      "accent": "#167D61",
+      "onAccent": "#FFFFFF",
+      "accentSoft": "#DDEFE7",
+      "secondary": "#6F638A",
+      "decorative": "#A8BFA6"
+    }
+  },
+  "trend": {
+    "id": "trend",
+    "label": "Velvet Herbarium",
+    "kind": "editorial",
+    "mode": "light",
+    "edition": "2026-11",
+    "provenance": {
+      "type": "original-concept",
+      "note": "原创示范配色；非 Pantone 官方色板，也不代表已核实的 2026-11 潮流预测。",
+      "sources": []
+    },
+    "tokens": {
+      "background": "#F6EDE4",
+      "surface": "#FFF9F2",
+      "surfaceMuted": "#EDE2D7",
+      "text": "#523A36",
+      "textMuted": "#785B54",
+      "border": "#D9C6BB",
+      "accent": "#9C4457",
+      "onAccent": "#FFFFFF",
+      "accentSoft": "#EBD4D9",
+      "secondary": "#5B6A45",
+      "decorative": "#9CAC8A"
+    },
+    "material": {
+      "finish": "soft-matte",
+      "shadow": "subtle",
+      "gradient": "optional-and-sparse"
+    }
+  }
+}

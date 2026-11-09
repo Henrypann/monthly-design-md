@@ -1,0 +1,95 @@
+{
+  "system": "3-Theme Design System",
+  "version": "1.1.0",
+  "contract": {
+    "immutable": [
+      "layout",
+      "typography",
+      "status",
+      "foundations.dark",
+      "foundations.light"
+    ],
+    "classicMonthlyMutable": [
+      "accent",
+      "onAccent",
+      "accentSoft",
+      "secondary",
+      "decorative"
+    ],
+    "trendMutable": [
+      "background",
+      "surface",
+      "surfaceMuted",
+      "text",
+      "textMuted",
+      "border",
+      "accent",
+      "onAccent",
+      "accentSoft",
+      "secondary",
+      "decorative",
+      "material"
+    ],
+    "rules": [
+      "All three themes share information architecture and components.",
+      "Never rely on color alone for status.",
+      "No random hard-coded colors in product components."
+    ]
+  },
+  "layout": {
+    "spacingBase": 4,
+    "spacingPreferred": 8,
+    "radius": {
+      "small": 8,
+      "medium": 12,
+      "card": 16,
+      "large": 20
+    },
+    "minTouchTarget": 44
+  },
+  "typography": {
+    "family": "system-ui",
+    "scale": {
+      "caption": 12,
+      "body": 14,
+      "bodyLarge": 16,
+      "heading": 20,
+      "title": 28
+    },
+    "fontWeight": {
+      "regular": 400,
+      "medium": 500,
+      "semibold": 600
+    }
+  },
+  "status": {
+    "light": {
+      "success": "#167C58",
+      "warning": "#936300",
+      "danger": "#B62D36"
+    },
+    "dark": {
+      "success": "#69D5A9",
+      "warning": "#F2BF66",
+      "danger": "#FF8F91"
+    }
+  },
+  "foundations": {
+    "dark": {
+      "background": "#191B20",
+      "surface": "#282C33",
+      "surfaceMuted": "#333943",
+      "text": "#F2F3F5",
+      "textMuted": "#BBC1CB",
+      "border": "#4A505B"
+    },
+    "light": {
+      "background": "#F6F7F8",
+      "surface": "#FFFFFF",
+      "surfaceMuted": "#ECEFF1",
+      "text": "#242C2B",
+      "textMuted": "#58615F",
+      "border": "#D5DCDB"
+    }
+  }
+}

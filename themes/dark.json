@@ -1,0 +1,14 @@
+{
+  "id": "dark",
+  "label": "Obsidian",
+  "kind": "classic",
+  "mode": "dark",
+  "edition": "2026-11",
+  "tokens": {
+    "accent": "#65C9AC",
+    "onAccent": "#10251D",
+    "accentSoft": "#203B36",
+    "secondary": "#A89DC7",
+    "decorative": "#B5C4B0"
+  }
+}

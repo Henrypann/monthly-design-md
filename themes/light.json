@@ -1,0 +1,14 @@
+{
+  "id": "light",
+  "label": "Porcelain",
+  "kind": "classic",
+  "mode": "light",
+  "edition": "2026-11",
+  "tokens": {
+    "accent": "#167D61",
+    "onAccent": "#FFFFFF",
+    "accentSoft": "#DDEFE7",
+    "secondary": "#6F638A",
+    "decorative": "#A8BFA6"
+  }
+}
